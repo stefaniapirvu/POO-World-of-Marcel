@@ -15,7 +15,7 @@
  Caracterul se afla mereu initial pe prima casuta din coltul stanga sus , iar finish in coltul dreapta jos.
  Setez celula curenta, initiala ca si vizitata.
 
- Metoda generareMapa intoarce mapa hardcodata, iar metoda generareMapa2 intoarce mapa random, care insa are ppozitia initiala si finish setate ca mai sus.
+ Metoda generareMapa intoarce mapa hardcodata, iar metoda generareMapa2 intoarce mapa random, care insa are pozitia initiala si finish setate ca mai sus.
  Metoda de printare mapa parcurge intreaga lista de liste si afiseaza S /P/N/E/F in functie de tipul celulei sau ? daca celula nu a fost vizitata.
 
  Metodele de deplasare sunt asemantoare asa ca voi detalia una singura.
@@ -31,7 +31,7 @@
         Avem mai departe 3 metode
 
         -1 start (joc CLI hardcodat)
-        -2 startnehardcodat (joc CLI nehardcodat)startGui (joc GUI)
+        -2 startnehardcodat (joc CLI nehardcodat)
         -3 startGui (joc GUI)
 
     1. In metoda start
